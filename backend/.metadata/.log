@@ -295,3 +295,18 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 01:09:54.662
 !MESSAGE executing callback sts4.classpath.BQReAXHW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 01:23:40.129
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BQReAXHW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 01:23:40.130
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.BQReAXHW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 01:23:40.131
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-21 01:23:40.131
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BQReAXHW => OK
+
+!ENTRY org.eclipse.core.jobs 2 2 2021-06-21 01:23:42.020
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.springframework.ide.eclipse.boot.launch.console.BootConsolePageParticipant$TerminateProcessAction$1
