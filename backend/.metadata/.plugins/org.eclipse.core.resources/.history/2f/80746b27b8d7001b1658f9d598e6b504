@@ -1,0 +1,13 @@
+package com.github.yanofelix.rest.dto;
+
+public class ServicoPrestadoDTO {
+	
+	private String descricao;
+	
+	private String preco;
+	
+	private String data;
+	
+	private Integer idCliente;
+	
+}

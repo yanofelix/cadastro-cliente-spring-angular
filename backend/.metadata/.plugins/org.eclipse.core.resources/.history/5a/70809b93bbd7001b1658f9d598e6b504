@@ -1,0 +1,39 @@
+package com.github.yanofelix.rest;
+
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.github.yanofelix.model.entitity.ServicoPrestado;
+import com.github.yanofelix.model.repository.ClienteRepository;
+import com.github.yanofelix.model.repository.ServicoPrestadoRepository;
+import com.github.yanofelix.rest.dto.ServicoPrestadoDTO;
+
+@RestController
+@RequestMapping("/api/servicos-prestados")
+public class ServicoPrestadoController {
+	
+	private final ClienteRepository clienteRepository;
+	private final ServicoPrestadoRepository repository;
+	
+	public ServicoPrestadoController(ClienteRepository clienteRepository, 
+			ServicoPrestadoRepository repository) {
+		this.clienteRepository = clienteRepository;
+		this.repository = repository;
+	}
+	
+	@PostMapping
+	public ServicoPrestado salvar(@RequestBody ServicoPrestadoDTO dto) {
+		ServicoPrestado servicoPrestado = new ServicoPrestado();
+		Integer idCliente  = dto.getIdCliente();
+		
+		servicoPrestado.setDescricao(dto.getDescricao());
+		servicoPrestado.setData(LocalDate.parse(dto.getData(), DateTimeFormatter.ofPattern("dd/MM/yyyy")));
+		
+	}
+	
+}

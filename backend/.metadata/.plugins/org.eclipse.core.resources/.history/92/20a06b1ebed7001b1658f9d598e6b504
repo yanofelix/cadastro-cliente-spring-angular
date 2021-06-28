@@ -1,0 +1,5 @@
+package com.github.yanofelix.util;
+
+public class BigDecimalConverter {
+
+}
