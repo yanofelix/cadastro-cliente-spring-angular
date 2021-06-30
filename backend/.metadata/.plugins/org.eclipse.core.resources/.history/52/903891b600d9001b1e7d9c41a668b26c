@@ -1,0 +1,74 @@
+package com.github.yanofelix.rest;
+
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+import java.util.List;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseStatus;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.server.ResponseStatusException;
+
+import com.github.yanofelix.model.entitity.Cliente;
+import com.github.yanofelix.model.entitity.ServicoPrestado;
+import com.github.yanofelix.model.repository.ClienteRepository;
+import com.github.yanofelix.model.repository.ServicoPrestadoRepository;
+import com.github.yanofelix.rest.dto.ServicoPrestadoDTO;
+import com.github.yanofelix.util.BigDecimalConverter;
+
+import lombok.RequiredArgsConstructor;
+
+@RestController
+@RequestMapping("/api/servicos-prestados")
+@RequiredArgsConstructor
+public class ServicoPrestadoController {
+	
+	private final ClienteRepository clienteRepository;
+	private final ServicoPrestadoRepository repository;
+	private final BigDecimalConverter bigDecimalConverter;
+	
+//	public ServicoPrestadoController(ClienteRepository clienteRepository, 
+//			ServicoPrestadoRepository repository) {
+//		this.clienteRepository = clienteRepository;
+//		this.repository = repository;
+//	}
+	
+	@PostMapping
+	@ResponseStatus(HttpStatus.CREATED)
+	public ServicoPrestado salvar(@RequestBody ServicoPrestadoDTO dto) {
+		ServicoPrestado servicoPrestado = new ServicoPrestado();
+		Long idCliente  = dto.getIdCliente();
+		
+//		Optional<Cliente> clienteOptional = clienteRepository.findById(idCliente);
+////		if(clienteOptional.isPresent())
+////		Cliente cliente = clienteOptional.orElse(new Cliente());
+//		
+		
+		Cliente cliente = 
+				clienteRepository
+				.findById(idCliente)
+				.orElseThrow(()-> new ResponseStatusException(HttpStatus.BAD_REQUEST, "Cliente inexistente"));
+		
+		servicoPrestado.setDescricao(dto.getDescricao());
+		servicoPrestado.setData(LocalDate.parse(dto.getData(), DateTimeFormatter.ofPattern("dd/MM/yyyy")));
+		servicoPrestado.setCliente(cliente);
+		servicoPrestado.setValor(bigDecimalConverter.converter(dto.getPreco()) );
+		
+		return repository.save(servicoPrestado);
+		
+	}
+	
+	@GetMapping
+	public List<ServicoPrestado> pesquisar(
+			@RequestParam(value="nome", required = false, defaultValue = "") String nome,
+			@RequestParam(value="mes", required = false) Integer mes
+			) {
+		return repository.findbyNomeAndMes("%"+nome+"%", mes);
+	}
+	
+}
