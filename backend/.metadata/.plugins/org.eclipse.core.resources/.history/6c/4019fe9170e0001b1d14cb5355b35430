@@ -1,0 +1,5 @@
+package com.github.yanofelix.config;
+
+public class ResourceServerConfig {
+
+}
