@@ -1630,3 +1630,123 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2021-07-11 14:58:36,777 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-07-11 14:58:36,789 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-11 14:58:36,789 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 14:58:36,789 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 15:06:56,394 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 15:06:56,395 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 15:06:56,397 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 15:06:56,407 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 15:06:56,410 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 15:06:56,410 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 15:06:56,410 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 15:13:08,412 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 15:13:08,413 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 15:13:08,414 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 15:13:08,424 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 15:13:08,427 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 15:13:08,427 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 15:13:08,427 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 15:13:29,531 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 15:13:29,531 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 15:13:29,532 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 15:13:29,541 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 15:13:29,547 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 15:13:29,547 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 15:13:29,547 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 15:21:28,826 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 15:21:28,827 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 15:21:28,828 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 15:21:28,837 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 15:21:28,842 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 15:21:28,842 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 15:21:28,842 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 15:30:08,862 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 15:30:08,863 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 15:30:08,865 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 15:30:08,893 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-11 15:30:08,897 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 15:30:08,897 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 15:30:08,897 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:22:40,585 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:22:40,586 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:22:40,587 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:22:40,603 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:22:40,609 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:22:40,609 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:22:40,610 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:22:57,350 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:22:57,351 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:22:57,352 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:22:57,359 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:22:57,362 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:22:57,362 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:22:57,362 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:24:47,664 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:24:47,666 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:24:47,667 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:24:47,674 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:24:47,678 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:24:47,678 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:24:47,678 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:44:24,336 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:44:24,336 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:44:24,337 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:44:24,386 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:44:24,391 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:44:24,391 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:44:24,392 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:46:11,301 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:46:11,302 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:46:11,302 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:46:11,311 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:46:11,315 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:46:11,315 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:46:11,316 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:51:10,354 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:51:10,354 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:51:10,355 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:51:10,361 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:51:10,365 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:51:10,365 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:51:10,365 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:51:24,661 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:51:24,662 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:51:24,663 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:51:24,669 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:51:24,671 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:51:24,672 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:51:24,672 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:51:34,432 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:51:34,432 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:51:34,433 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:51:34,440 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:51:34,442 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:51:34,443 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:51:34,443 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:52:16,123 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:52:16,123 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:52:16,124 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:52:16,131 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:52:16,135 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:52:16,135 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:52:16,135 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:52:19,854 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:52:19,855 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:52:19,856 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:52:19,862 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:52:19,864 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:52:19,864 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:52:19,865 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:52:36,490 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:52:36,490 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:52:36,491 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:52:36,497 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:52:36,500 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:52:36,501 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:52:36,501 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
+2021-07-11 16:53:37,974 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:53:37,974 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:53:37,975 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:53:37,982 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-11 16:53:37,986 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-11 16:53:37,986 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-11 16:53:37,986 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yan\git\cadastro-cliente-spring-angular\backend\src\test\resources
